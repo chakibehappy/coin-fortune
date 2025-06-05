@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Fortuna Background-spine_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 743ac916c5df04b7ba3b0c5573e7e92c, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 516bca3a09fdb40f89cd4011fb7b0ee1, type: 2}
+  - {fileID: 2100000, guid: 6bad5698fc0c44e5a82987f505badeb3, type: 2}
+  - {fileID: 2100000, guid: d808b8f00f36e41978af15db2a165d8c, type: 2}

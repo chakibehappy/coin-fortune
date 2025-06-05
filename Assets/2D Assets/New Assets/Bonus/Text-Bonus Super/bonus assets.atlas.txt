@@ -1,0 +1,67 @@
+bonus assets.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.59552
+b
+	bounds: 297, 5, 216, 195
+	offsets: 2, 2, 220, 199
+base text
+	bounds: 1068, 255, 847, 238
+	offsets: 0, 1, 847, 239
+coin 1
+	bounds: 1021, 21, 112, 115
+	offsets: 2, 2, 116, 119
+coin 2
+	bounds: 1021, 138, 112, 115
+	offsets: 2, 2, 116, 119
+coin 3
+	bounds: 1308, 769, 112, 115
+	offsets: 2, 2, 116, 119
+fog 1
+	bounds: 2, 1280, 1594, 636
+	offsets: 0, 9, 1599, 651
+fog 2
+	bounds: 2, 886, 1421, 392
+	offsets: 1, 0, 1423, 392
+front fx 1
+	bounds: 2, 297, 1064, 196
+	offsets: 0, 5, 1064, 201
+front fx 2
+	bounds: 2, 655, 1030, 229
+gem
+	bounds: 1425, 729, 549, 549
+great shine
+	bounds: 1034, 495, 910, 232
+	offsets: 5, 18, 924, 254
+shine mega
+	bounds: 1034, 495, 910, 232
+	offsets: 5, 18, 924, 254
+super shine
+	bounds: 1034, 495, 910, 232
+	offsets: 5, 18, 924, 254
+great text
+	bounds: 297, 202, 501, 93
+inner gem
+	bounds: 1598, 1475, 441, 439
+	offsets: 3, 2, 447, 444
+	rotate: 90
+mega text
+	bounds: 2, 542, 490, 111
+	offsets: 1, 0, 491, 111
+mega wings L
+	bounds: 515, 84, 266, 116
+mega wings R
+	bounds: 1598, 1357, 266, 116
+	offsets: 0, 0, 267, 116
+nu
+	bounds: 1034, 765, 272, 119
+ring
+	bounds: 2, 2, 293, 293
+	offsets: 6, 6, 305, 305
+s
+	bounds: 800, 91, 219, 204
+	offsets: 2, 1, 223, 207
+super text
+	bounds: 494, 558, 510, 95
+	offsets: 0, 0, 510, 96

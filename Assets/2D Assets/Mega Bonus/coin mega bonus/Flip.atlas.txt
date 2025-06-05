@@ -1,0 +1,74 @@
+Flip.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+CoinBorder
+	bounds: 1610, 1203, 55, 464
+Coin_1
+	bounds: 1199, 20, 107, 126
+Coin_3
+	bounds: 1199, 20, 107, 126
+Coin_2
+	bounds: 1176, 734, 99, 121
+	rotate: 90
+Coin_4
+	bounds: 1176, 734, 99, 121
+	rotate: 90
+Coin_5
+	bounds: 612, 3, 143, 163
+	rotate: 90
+Coin_6
+	bounds: 455, 31, 155, 151
+Coin_Flip1
+	bounds: 2, 54, 278, 128
+Coin_Flip2
+	bounds: 1457, 1532, 327, 151
+	rotate: 90
+Coin_Flip3
+	bounds: 1457, 1203, 327, 151
+	rotate: 90
+Head
+	bounds: 282, 33, 149, 171
+	rotate: 90
+Head_Inside
+	bounds: 1373, 62, 201, 201
+Light
+	bounds: 1070, 21, 127, 125
+	offsets: 1, 0, 131, 125
+Spin_noBorder
+	bounds: 1373, 468, 287, 289
+Tail
+	bounds: 777, 2, 144, 144
+Tail_Inside
+	bounds: 1373, 265, 201, 201
+VFX3
+	bounds: 2, 848, 1082, 1082
+	offsets: 1, 2, 1084, 1085
+landing fx
+	bounds: 2, 379, 743, 467
+	offsets: 1, 0, 746, 472
+landing fx spark 1
+	bounds: 2, 184, 636, 193
+	offsets: 3, 13, 639, 206
+landing fx spark 2
+	bounds: 1478, 759, 442, 143
+	rotate: 90
+landing fx spark 3
+	bounds: 1176, 148, 578, 195
+	rotate: 90
+launch fx 1
+	bounds: 1086, 1137, 369, 793
+	offsets: 8, 13, 385, 819
+launch fx 2
+	bounds: 747, 148, 427, 698
+	offsets: 0, 3, 427, 704
+launch fx 3
+	bounds: 1086, 1055, 58, 80
+	offsets: 1, 0, 59, 81
+ring
+	bounds: 1176, 835, 300, 300
+	offsets: 6, 6, 312, 312
+star
+	bounds: 923, 3, 145, 143
+	offsets: 9, 9, 163, 161

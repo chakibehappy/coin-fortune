@@ -1,0 +1,42 @@
+Title screen.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.60702
+Breast L
+	bounds: 2, 1558, 222, 259
+Breast R
+	bounds: 974, 1581, 194, 236
+Hair BG
+	bounds: 1083, 842, 779, 634
+	rotate: 270
+Hand L
+	bounds: 573, 2, 638, 376
+	rotate: 180
+Hand R1
+	bounds: 242, 674, 242, 323
+	offsets: 0, 0, 242, 344
+	rotate: 90
+Hand R2
+	bounds: 1177, 1462, 355, 375
+	rotate: 90
+Head
+	bounds: 1389, 367, 324, 396
+	rotate: 180
+Leg L2
+	bounds: 2, 162, 577, 247
+	rotate: 90
+Leg R
+	bounds: 192, 151, 889, 945
+Skirt long
+	bounds: 2, 838, 1235, 979
+leg L1
+	bounds: 943, 359, 467, 492
+ring
+	bounds: 1357, 65, 299, 299
+	offsets: 6, 6, 311, 311
+star
+	bounds: 2, 753, 144, 144
+	offsets: 9, 8, 162, 160
+torso
+	bounds: 670, 214, 367, 481

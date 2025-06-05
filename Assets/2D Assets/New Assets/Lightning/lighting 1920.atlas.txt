@@ -1,0 +1,385 @@
+lighting 1920.png
+size:1988,400
+filter:Linear,Linear
+pma:true
+scale:0.20099
+fx/Glow
+bounds:1832,216,69,69
+offsets:5,6,80,80
+fx/L/Comp 1_10
+bounds:197,68,111,111
+offsets:43,40,206,206
+fx/L/Comp 1_11
+bounds:1157,291,117,107
+offsets:40,37,206,206
+fx/L/Comp 1_12
+bounds:429,288,123,110
+offsets:36,34,206,206
+fx/L/Comp 1_13
+bounds:298,293,129,105
+offsets:33,40,206,206
+fx/L/Comp 1_14
+bounds:2,187,135,109
+offsets:29,37,206,206
+fx/L/Comp 1_15
+bounds:2,44,141,102
+offsets:25,33,206,206
+rotate:90
+fx/L/Comp 1_16
+bounds:150,303,146,95
+offsets:22,29,206,206
+fx/L/Comp 1_17
+bounds:2,298,146,100
+offsets:18,24,206,206
+fx/L/Comp 1_2
+bounds:1645,223,69,73
+offsets:67,62,206,206
+rotate:90
+fx/L/Comp 1_3
+bounds:1440,223,72,77
+offsets:65,60,206,206
+fx/L/Comp 1_4
+bounds:961,15,76,83
+offsets:63,57,206,206
+fx/L/Comp 1_5
+bounds:1036,103,80,87
+offsets:60,55,206,206
+fx/L/Comp 1_6
+bounds:1293,202,86,93
+offsets:57,51,206,206
+fx/L/Comp 1_7
+bounds:1022,192,92,99
+offsets:54,47,206,206
+rotate:90
+fx/L/Comp 1_8
+bounds:139,187,99,104
+offsets:50,43,206,206
+fx/L/Comp 1_9
+bounds:646,177,104,106
+offsets:47,43,206,206
+rotate:90
+fx/L2/lighting_01
+bounds:1376,147,53,62
+offsets:46,42,137,133
+rotate:90
+fx/L2/lighting_02
+bounds:832,4,70,83
+offsets:37,24,137,133
+fx/L2/lighting_03
+bounds:711,89,83,86
+offsets:29,19,137,133
+fx/L2/lighting_04
+bounds:405,86,105,102
+offsets:15,12,137,133
+fx/L2/lighting_05
+bounds:537,179,107,106
+offsets:14,10,137,133
+fx/L2/lighting_06
+bounds:1877,288,110,109
+offsets:12,8,137,133
+rotate:90
+fx/L2/lighting_07
+bounds:1763,287,111,112
+offsets:12,7,137,133
+rotate:90
+fx/L2/lighting_08
+bounds:1040,286,112,115
+offsets:11,6,137,133
+rotate:90
+fx/L2/lighting_09
+bounds:800,287,111,119
+offsets:12,3,137,133
+rotate:90
+fx/L2/lighting_10
+bounds:554,287,111,121
+offsets:12,2,137,133
+rotate:90
+fx/L2/lighting_11
+bounds:1276,297,101,121
+offsets:19,3,137,133
+rotate:90
+fx/L2/lighting_12
+bounds:1399,302,96,122
+offsets:19,2,137,133
+rotate:90
+fx/L2/lighting_13
+bounds:310,72,93,107
+offsets:22,17,137,133
+fx/L2/lighting_14
+bounds:602,89,86,107
+offsets:29,17,137,133
+rotate:90
+fx/L2/lighting_15
+bounds:835,189,84,96
+offsets:30,18,137,133
+fx/L2/lighting_16
+bounds:746,10,77,84
+offsets:37,29,137,133
+rotate:90
+fx/L2/lighting_17
+bounds:1514,226,72,74
+offsets:42,32,137,133
+fx/L2/lighting_18
+bounds:1588,241,55,62
+offsets:51,44,137,133
+fx/L2/lighting_19
+bounds:1198,50,54,60
+offsets:47,46,137,133
+fx/L2/lighting_20
+bounds:1198,50,54,60
+offsets:47,46,137,133
+fx/L2/lighting_21
+bounds:1903,217,68,69
+offsets:39,33,137,133
+fx/L2/lighting_22
+bounds:565,47,27,37
+offsets:38,35,137,133
+fx/L2/lighting_23
+bounds:170,2,62,64
+offsets:38,32,137,133
+fx/L2/lighting_24
+bounds:170,2,62,64
+offsets:38,32,137,133
+fx/L2/lighting_25
+bounds:234,2,64,62
+offsets:37,33,137,133
+rotate:90
+fx/L2/lighting_26
+bounds:106,2,66,62
+offsets:36,33,137,133
+rotate:90
+fx/L2/lighting_27
+bounds:1376,101,44,58
+offsets:44,30,137,133
+rotate:90
+fx/L2/lighting_28
+bounds:1440,122,49,64
+offsets:44,31,137,133
+rotate:90
+fx/L2/lighting_29
+bounds:1440,173,48,65
+offsets:44,32,137,133
+rotate:90
+fx/L2/lighting_30
+bounds:1172,2,43,51
+offsets:46,31,137,133
+rotate:90
+fx/L2/lighting_31
+bounds:1172,2,43,51
+offsets:46,31,137,133
+rotate:90
+fx/L2/lighting_32
+bounds:2,2,40,54
+offsets:50,31,137,133
+rotate:90
+fx/L2/lighting_33
+bounds:1720,235,37,57
+offsets:55,31,137,133
+fx/L2/lighting_34
+bounds:1966,192,23,20
+offsets:58,69,137,133
+rotate:90
+fx/L2/lighting_35
+bounds:1934,189,30,26
+offsets:53,67,137,133
+fx/L2/lighting_36
+bounds:1587,75,27,29
+offsets:51,65,137,133
+fx/L2/lighting_37
+bounds:1587,44,27,29
+offsets:51,65,137,133
+fx/L3/Lighting loop_00
+bounds:677,283,115,121
+offsets:44,36,203,197
+rotate:90
+fx/L3/Lighting loop_01
+bounds:677,283,115,121
+offsets:44,36,203,197
+rotate:90
+fx/L3/Lighting loop_02
+bounds:240,181,112,110
+offsets:47,38,203,197
+fx/L3/Lighting loop_03
+bounds:921,286,112,117
+offsets:47,38,203,197
+rotate:90
+fx/L3/Lighting loop_04
+bounds:1645,294,104,116
+offsets:48,39,203,197
+rotate:90
+fx/L3/Lighting loop_05
+bounds:424,190,96,111
+offsets:62,44,203,197
+rotate:90
+fx/L3/Lighting loop_06
+bounds:424,190,96,111
+offsets:62,44,203,197
+rotate:90
+fx/L3/Lighting loop_07
+bounds:1118,47,78,63
+offsets:59,70,203,197
+fx/L3/Lighting loop_08
+bounds:1039,23,78,73
+offsets:58,68,203,197
+rotate:90
+fx/L3/Lighting loop_09
+bounds:405,2,87,82
+offsets:58,67,203,197
+fx/L3/Lighting loop_10
+bounds:661,7,83,80
+offsets:59,67,203,197
+fx/L3/Lighting loop_11
+bounds:661,7,83,80
+offsets:59,67,203,197
+fx/L3/Lighting loop_12
+bounds:796,89,87,80
+offsets:60,67,203,197
+rotate:90
+fx/L3/Lighting loop_13
+bounds:957,100,88,77
+offsets:60,67,203,197
+rotate:90
+fx/L3/Lighting loop_14
+bounds:1118,112,87,78
+offsets:53,68,203,197
+fx/L3/Lighting loop_15
+bounds:1123,192,90,92
+offsets:53,45,203,197
+fx/L3/Lighting loop_16
+bounds:1123,192,90,92
+offsets:53,45,203,197
+fx/L3/Lighting loop_17
+bounds:921,190,99,94
+offsets:46,45,203,197
+fx/L3/Lighting loop_18
+bounds:878,98,89,77
+offsets:46,53,203,197
+rotate:90
+fx/L3/Lighting loop_19
+bounds:494,2,82,69
+offsets:48,72,203,197
+rotate:90
+fx/L3/Lighting loop_20
+bounds:1381,214,57,81
+offsets:71,65,203,197
+fx/L3/Lighting loop_21
+bounds:1381,214,57,81
+offsets:71,65,203,197
+fx/L3/Lighting loop_22
+bounds:602,2,57,85
+offsets:73,63,203,197
+fx/L3/Lighting loop_23
+bounds:904,9,55,87
+offsets:76,61,203,197
+fx/L3/Lighting loop_24
+bounds:1759,218,67,71
+offsets:64,60,203,197
+rotate:90
+fx/L3/Lighting loop_25
+bounds:310,2,68,91
+offsets:64,58,203,197
+rotate:90
+fx/L3/Lighting loop_26
+bounds:310,2,68,91
+offsets:64,58,203,197
+rotate:90
+fx/L3/Lighting loop_27
+bounds:1215,193,76,96
+offsets:56,58,203,197
+fx/L3/Lighting loop_28
+bounds:754,178,79,103
+offsets:53,47,203,197
+fx/L3/Lighting loop_29
+bounds:354,198,68,93
+offsets:65,46,203,197
+fx/L3/Lighting loop_30
+bounds:1293,139,61,81
+offsets:65,46,203,197
+rotate:90
+fx/L3/Lighting loop_31
+bounds:1293,139,61,81
+offsets:65,46,203,197
+rotate:90
+fx/L4/Poison_Wave_9
+bounds:512,86,88,91
+offsets:8,6,103,103
+fx/L5/S2_0
+bounds:1436,62,58,58
+fx/L5/S2_1
+bounds:1277,2,58,58
+fx/L5/S2_10
+bounds:1337,2,58,58
+fx/L5/S2_11
+bounds:1397,2,58,58
+fx/L5/S2_12
+bounds:1457,2,58,58
+fx/L5/S2_13
+bounds:1496,62,58,58
+fx/L5/S2_14
+bounds:1517,2,58,58
+fx/L5/S2_15
+bounds:1207,132,58,58
+fx/L5/S2_16
+bounds:1514,166,58,58
+fx/L5/S2_17
+bounds:1574,166,58,58
+fx/L5/S2_18
+bounds:1634,163,58,58
+fx/L5/S2_19
+bounds:1694,163,58,58
+fx/L5/S2_2
+bounds:1754,158,58,58
+fx/L5/S2_20
+bounds:1814,156,58,58
+fx/L5/S2_21
+bounds:1874,156,58,58
+fx/L5/S2_22
+bounds:1556,106,58,58
+fx/L5/S2_23
+bounds:1616,103,58,58
+fx/L5/S2_24
+bounds:1676,103,58,58
+fx/L5/S2_25
+bounds:1736,98,58,58
+fx/L5/S2_26
+bounds:1796,96,58,58
+fx/L5/S2_27
+bounds:1856,96,58,58
+fx/L5/S2_28
+bounds:1916,96,58,58
+fx/L5/S2_29
+bounds:1616,43,58,58
+fx/L5/S2_3
+bounds:1676,43,58,58
+fx/L5/S2_4
+bounds:1736,38,58,58
+fx/L5/S2_5
+bounds:1796,36,58,58
+fx/L5/S2_6
+bounds:1856,36,58,58
+fx/L5/S2_7
+bounds:1916,36,58,58
+fx/L5/S2_8
+bounds:1254,72,58,58
+fx/L5/S2_9
+bounds:1314,79,58,58
+fx/br01
+bounds:1506,122,38,39
+fx/br02
+bounds:1114,2,56,43
+fx/br03
+bounds:1225,3,50,45
+fx/br04
+bounds:1556,74,29,30
+fx/br05
+bounds:58,9,33,46
+rotate:90
+fx/br06
+bounds:565,12,26,33
+fx/lighting_M1
+bounds:1523,305,93,120
+offsets:1,1,94,122
+rotate:90
+fx/lighting_M2
+bounds:106,70,89,115
+offsets:3,4,94,122

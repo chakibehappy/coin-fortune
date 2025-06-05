@@ -1,0 +1,105 @@
+Mega Bonus Character.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.5
+L breast
+	bounds: 507, 304, 193, 190
+	rotate: 90
+L hand
+	bounds: 1162, 907, 184, 115
+	offsets: 0, 0, 185, 116
+	rotate: 90
+L hand back
+	bounds: 718, 1083, 143, 300
+	rotate: 90
+L hand palm
+	bounds: 879, 478, 193, 146
+	rotate: 90
+L hand palm pose 2
+	bounds: 880, 673, 150, 197
+L hand palm pose 3
+	bounds: 885, 872, 151, 209
+L hand pose 2
+	bounds: 506, 499, 166, 189
+	offsets: 0, 0, 168, 189
+	rotate: 90
+L hand pose 3
+	bounds: 507, 228, 210, 74
+L leg
+	bounds: 344, 494, 160, 666
+	offsets: 9, 0, 178, 666
+L side hair
+	bounds: 862, 245, 135, 231
+	offsets: 0, 0, 143, 278
+L thigh
+	bounds: 506, 667, 173, 493
+R breast
+	bounds: 681, 685, 197, 196
+R hand
+	bounds: 720, 145, 133, 163
+	offsets: 0, 1, 134, 164
+R hand back
+	bounds: 1430, 1217, 208, 307
+R hand palm
+	bounds: 1038, 892, 197, 122
+	rotate: 90
+R hand palm pose 2
+	bounds: 697, 499, 180, 184
+R hand palm pose 3
+	bounds: 699, 310, 187, 161
+	rotate: 90
+R hand pose 2
+	bounds: 344, 215, 161, 277
+R hand pose 3
+	bounds: 532, 102, 186, 124
+R leg
+	bounds: 1424, 1821, 225, 592
+	offsets: 6, 0, 238, 592
+	rotate: 90
+R side hair
+	bounds: 294, 72, 141, 236
+	offsets: 0, 5, 141, 251
+	rotate: 90
+R thigh
+	bounds: 1146, 1190, 282, 467
+eyes close
+	bounds: 294, 2, 142, 68
+face
+	bounds: 1818, 1545, 200, 274
+	offsets: 1, 0, 202, 274
+face pose 2
+	bounds: 1640, 1247, 185, 277
+	offsets: 3, 1, 188, 278
+face pose 3
+	bounds: 1827, 1268, 185, 275
+	offsets: 3, 1, 188, 276
+hair back 1
+	bounds: 681, 883, 202, 198
+hair back 2
+	bounds: 718, 1659, 704, 387
+hair front
+	bounds: 1279, 923, 168, 117
+	rotate: 90
+hair front pose 3
+	bounds: 855, 169, 152, 74
+hip
+	bounds: 1430, 1526, 386, 293
+	offsets: 0, 13, 386, 306
+mouth
+	bounds: 438, 16, 88, 54
+neck
+	bounds: 1020, 1091, 116, 135
+side hair pose 3
+	bounds: 2, 23, 227, 290
+	rotate: 90
+skirt back
+	bounds: 2, 1162, 714, 884
+skirt front
+	bounds: 2, 252, 340, 908
+tiara
+	bounds: 1138, 1093, 191, 95
+	offsets: 7, 16, 205, 126
+torso
+	bounds: 718, 1228, 426, 429
+	offsets: 0, 15, 434, 453

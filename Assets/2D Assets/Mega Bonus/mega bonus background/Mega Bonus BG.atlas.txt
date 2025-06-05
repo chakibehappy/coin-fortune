@@ -1,0 +1,102 @@
+Mega Bonus BG.png
+size:3996,3884
+filter:Linear,Linear
+pma:true
+scale:0.40374
+Island BG
+bounds:2325,2,1516,1543
+offsets:2,1,1562,1545
+rotate:90
+bottom Cloud FG
+bounds:541,3203,570,328
+offsets:12,126,583,458
+bottom cloud BG
+bounds:1028,2272,1080,504
+offsets:20,23,1102,532
+cloud 1
+bounds:2798,3093,612,345
+offsets:2,6,617,356
+cloud 2
+bounds:3412,3050,580,388
+offsets:1,6,584,395
+cloud 3
+bounds:2,878,1128,736
+offsets:3,1,1147,738
+cloud 4
+bounds:2634,3689,1021,193
+offsets:2,2,1025,196
+cloud 5
+bounds:1700,1520,1710,674
+offsets:0,47,1710,784
+island FG
+bounds:1132,374,1144,1191
+offsets:1,1,1149,1193
+rotate:90
+light line 1
+bounds:2634,3440,247,1282
+offsets:41,170,330,1471
+rotate:90
+light line 6
+bounds:2634,3440,247,1282
+offsets:41,170,330,1471
+rotate:90
+light line 7
+bounds:2634,3440,247,1282
+offsets:41,170,330,1471
+rotate:90
+light line 2
+bounds:863,3751,131,770
+offsets:34,103,199,886
+rotate:90
+light line 3
+bounds:93,3759,123,768
+offsets:31,102,185,876
+rotate:90
+light line 4
+bounds:2,3533,216,1242
+offsets:58,171,330,1413
+rotate:90
+light line 5
+bounds:1635,3695,187,997
+offsets:34,132,256,1144
+rotate:90
+light pillar L
+bounds:2,2873,294,1421
+offsets:38,45,332,1466
+rotate:90
+light pillar R
+bounds:1246,3456,237,1386
+offsets:0,9,260,1395
+rotate:90
+pool
+bounds:2,1616,1696,654
+ripple
+bounds:2697,2650,994,398
+offsets:0,0,1041,398
+ripple radial
+bounds:2,3235,537,296
+offsets:0,6,541,308
+ripple shadow
+bounds:2,2451,1024,420
+offsets:0,0,1061,421
+shadow
+bounds:2110,2196,1695,452
+offsets:0,0,1695,478
+spark pool
+bounds:2,3815,67,89
+offsets:1,2,69,91
+rotate:90
+tranparency
+bounds:1425,2778,1270,389
+offsets:11,10,1294,409
+up-down
+bounds:1113,3169,1683,269
+offsets:4,41,1694,310
+
+Mega Bonus BG_2.png
+size:1716,2172
+filter:Linear,Linear
+pma:true
+scale:0.40374
+sky
+bounds:2,2,1710,2167

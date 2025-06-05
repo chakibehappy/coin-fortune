@@ -1,0 +1,55 @@
+Flip.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+Coin_1
+	bounds: 1870, 1913, 107, 126
+Coin_3
+	bounds: 1870, 1913, 107, 126
+Coin_2
+	bounds: 1886, 1577, 99, 121
+Coin_4
+	bounds: 1886, 1577, 99, 121
+Coin_5
+	bounds: 1741, 1535, 143, 163
+Coin_6
+	bounds: 859, 500, 155, 151
+Light
+	bounds: 1741, 1914, 127, 125
+	offsets: 1, 0, 131, 125
+Text BG
+	bounds: 2, 423, 856, 228
+VFX3
+	bounds: 2, 957, 1082, 1082
+	offsets: 1, 2, 1084, 1085
+VFX4
+	bounds: 2, 653, 1025, 302
+	offsets: 0, 1, 1376, 303
+VFX5
+	bounds: 2, 2, 1457, 401
+VFX6
+	bounds: 1085, 405, 1634, 653
+	offsets: 0, 8, 1637, 666
+	rotate: 90
+YOU WIN
+	bounds: 1740, 405, 826, 184
+	rotate: 90
+ring
+	bounds: 1741, 1233, 300, 300
+	offsets: 6, 6, 312, 312
+star
+	bounds: 1741, 1700, 145, 143
+	offsets: 9, 9, 163, 161
+
+Flip_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+VFX1
+	bounds: 2, 1085, 1122, 768
+	offsets: 2, 2, 1146, 772
+VFX2
+	bounds: 2, 2, 1082, 1081
+	offsets: 1, 1, 1084, 1083

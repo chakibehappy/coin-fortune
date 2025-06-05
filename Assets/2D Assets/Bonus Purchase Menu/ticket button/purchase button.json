@@ -1,0 +1,129 @@
+{
+"skeleton": {
+	"hash": "HA/xpDX7Dfs",
+	"spine": "4.1.24",
+	"x": -206.04,
+	"y": -45.28,
+	"width": 434,
+	"height": 107,
+	"images": "./images/",
+	"audio": "D:/data asus/Documents/ramdan/kantor/fortuna/animation/Fortuna Spine assets/purchase button"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "all", "parent": "root", "x": 10.96, "y": 8.22 },
+	{ "name": "shine 3", "parent": "all", "x": 12 },
+	{ "name": "shine 2", "parent": "all" },
+	{ "name": "shine 1", "parent": "all" },
+	{ "name": "shine 4", "parent": "shine 2" },
+	{ "name": "shine clipping", "parent": "shine 4", "x": -280.3, "y": 11.02 }
+],
+"slots": [
+	{ "name": "base purchase", "bone": "all", "attachment": "base purchase" },
+	{ "name": "shine 1", "bone": "shine 1", "color": "ffffff00", "attachment": "shine 1" },
+	{ "name": "shine 2", "bone": "shine 2", "attachment": "shine 2" },
+	{ "name": "shine clipping", "bone": "shine clipping", "attachment": "shine clipping" },
+	{ "name": "shine 4", "bone": "shine 4", "attachment": "shine 2", "blend": "additive" },
+	{ "name": "shine 3", "bone": "shine 3", "color": "ffffff00", "attachment": "shine 3" },
+	{ "name": "top boder", "bone": "all", "attachment": "top boder" },
+	{ "name": "top boder2", "bone": "all", "color": "ffffff00", "attachment": "top boder", "blend": "multiply" },
+	{ "name": "text", "bone": "all", "attachment": "text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"base purchase": {
+				"base purchase": { "width": 434, "height": 107 }
+			},
+			"shine 1": {
+				"shine 1": { "width": 434, "height": 107 }
+			},
+			"shine 2": {
+				"shine 2": { "width": 434, "height": 107 }
+			},
+			"shine 3": {
+				"shine 3": { "width": 410, "height": 107 }
+			},
+			"shine 4": {
+				"shine 2": { "width": 434, "height": 107 }
+			},
+			"shine clipping": {
+				"shine clipping": {
+					"type": "clipping",
+					"end": "shine 4",
+					"vertexCount": 4,
+					"vertices": [ -106.42, -83.99, 38.52, 87.01, 98.78, 81.31, -38.83, -83.99 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"text": {
+				"text": { "x": 9.5, "y": 2.5, "width": 293, "height": 36 }
+			},
+			"top boder": {
+				"top boder": { "width": 434, "height": 107 }
+			},
+			"top boder2": {
+				"top boder": { "width": 434, "height": 107 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"top boder2": {
+				"rgba": [
+					{
+						"color": "ffffffff",
+						"curve": [ 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 0 ]
+					},
+					{ "time": 0.1667, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 1.111, 1, 1.222, 1, 1.111, 1, 1.222, 1, 1.111, 1, 1.222, 1, 1.111, 0, 1.222, 0.67 ]
+					},
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"shine clipping": {
+				"translate": [
+					{
+						"curve": [ 0.111, 0, 0.222, 199.5, 0.111, 0, 0.222, 0 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 299.25,
+						"curve": [ 0.722, 648.38, 1.111, 598.51, 0.722, 0, 1.111, 0 ]
+					},
+					{ "time": 1.5, "x": 598.51, "curve": "stepped" },
+					{ "time": 1.6667, "x": 598.51 }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"shine clipping": {
+					"shine clipping": {
+						"deform": [
+							{
+								"time": 0.3333,
+								"curve": [ 0.444, 0, 0.556, 1 ]
+							},
+							{
+								"time": 0.6667,
+								"vertices": [ -119.99847, 0, -119.99847 ],
+								"curve": [ 0.944, 0, 1.222, 1 ]
+							},
+							{ "time": 1.5 }
+						]
+					}
+				}
+			}
+		}
+	}
+}
+}

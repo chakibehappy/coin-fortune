@@ -1,0 +1,31 @@
+bonus mode button.png
+	size: 2048, 512
+	filter: Linear, Linear
+	pma: true
+BONUS
+	bounds: 900, 171, 177, 37
+	offsets: 1, 1, 179, 39
+MODE
+	bounds: 1079, 171, 151, 37
+	offsets: 1, 1, 153, 39
+PLAY
+	bounds: 1232, 171, 143, 35
+	offsets: 1, 1, 145, 37
+arrow
+	bounds: 795, 2, 630, 55
+	offsets: 2, 1, 633, 57
+base pink
+	bounds: 795, 59, 667, 110
+	offsets: 1, 1, 669, 112
+coin
+	bounds: 900, 214, 217, 136
+	offsets: 1, 1, 219, 138
+fx 1
+	bounds: 2, 171, 896, 299
+	offsets: 1, 1, 898, 301
+fx 2
+	bounds: 900, 352, 594, 118
+	offsets: 3, 2, 598, 123
+gold
+	bounds: 2, 38, 791, 131
+	offsets: 1, 1, 793, 133

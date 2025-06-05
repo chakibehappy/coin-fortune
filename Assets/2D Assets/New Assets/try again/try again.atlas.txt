@@ -1,0 +1,23 @@
+try again.png
+size:608,984
+filter:Linear,Linear
+pma:true
+scale:0.58924
+again
+bounds:500,423,556,104
+offsets:1,0,557,104
+rotate:90
+back glow
+bounds:2,205,774,273
+offsets:0,0,774,275
+rotate:90
+back text
+bounds:2,2,499,201
+offsets:1,0,501,201
+base plate
+bounds:277,261,718,221
+offsets:0,1,718,223
+rotate:90
+try
+bounds:503,64,357,99
+rotate:90

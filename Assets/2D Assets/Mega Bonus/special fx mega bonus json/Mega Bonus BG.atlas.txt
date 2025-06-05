@@ -1,0 +1,52 @@
+Mega Bonus BG.png
+size:2912,1004
+filter:Linear,Linear
+pma:true
+scale:0.40374
+light line 1
+bounds:719,220,247,1282
+offsets:41,170,330,1471
+rotate:90
+light line 6
+bounds:719,220,247,1282
+offsets:41,170,330,1471
+rotate:90
+light line 7
+bounds:719,220,247,1282
+offsets:41,170,330,1471
+rotate:90
+light line 2
+bounds:2003,336,131,770
+offsets:34,103,199,886
+rotate:90
+light line 3
+bounds:719,530,123,768
+offsets:31,102,185,876
+rotate:90
+light line 4
+bounds:2,2,216,1242
+offsets:58,171,330,1413
+rotate:90
+light line 5
+bounds:1246,31,187,997
+offsets:34,132,256,1144
+rotate:90
+light pillar L
+bounds:1489,708,294,1421
+offsets:38,45,332,1466
+rotate:90
+light pillar R
+bounds:1489,469,237,1386
+offsets:0,9,260,1395
+rotate:90
+light pillar small
+bounds:719,655,347,768
+offsets:1,9,349,789
+rotate:90
+ripple radial
+bounds:2245,38,537,296
+offsets:0,6,541,308
+sparkle
+bounds:2,314,688,715
+offsets:18,0,741,757
+rotate:90

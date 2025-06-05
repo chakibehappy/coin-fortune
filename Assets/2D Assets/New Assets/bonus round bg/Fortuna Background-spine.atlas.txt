@@ -1,0 +1,59 @@
+Fortuna Background-spine.png
+size:2036,1872
+filter:Linear,Linear
+pma:true
+scale:0.5
+Cloud BG 3
+bounds:480,1237,448,429
+offsets:1,6,451,436
+cloud island1
+bounds:2,1351,476,341
+offsets:2,0,481,343
+cloud island2
+bounds:1244,1540,360,328
+offsets:2,2,364,331
+comet
+bounds:405,1694,287,174
+offsets:3,1,292,175
+comet head
+bounds:2,1790,78,124
+offsets:1,0,81,125
+rotate:90
+island big1 light
+bounds:1178,507,836,572
+offsets:0,0,836,573
+island big2
+bounds:2,2,503,1311
+offsets:1,1,504,1312
+rotate:90
+island big2 light
+bounds:1606,1423,427,445
+island small BG
+bounds:128,1716,275,152
+offsets:0,2,442,155
+island1
+bounds:986,1633,235,256
+offsets:0,1,235,258
+rotate:90
+island2
+bounds:694,1668,290,200
+offsets:0,0,294,201
+sky-cloud blue 1
+bounds:930,1081,1091,340
+offsets:0,1,1094,341
+sky-cloud blue 2
+bounds:2,740,1174,339
+offsets:7,2,1190,341
+
+Fortuna Background-spine_2.png
+size:1636,1416
+filter:Linear,Linear
+pma:true
+scale:0.5
+dark top
+bounds:860,2,1411,772
+offsets:0,177,1411,949
+rotate:90
+island big1
+bounds:2,3,856,1410
+offsets:1,1,857,1411

@@ -1,0 +1,394 @@
+Mega Bonus Character.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6162
+fx/L/Comp 1_17
+	bounds: 1716, 269, 472, 304
+	offsets: 54, 75, 631, 631
+	rotate: 90
+fx/L/Comp 1_4
+	bounds: 560, 3, 233, 252
+	offsets: 192, 175, 631, 631
+	rotate: 90
+fx/L/Comp 1_5
+	bounds: 1797, 1367, 245, 267
+	offsets: 184, 167, 631, 631
+fx/L/Comp 1_9
+	bounds: 1716, 745, 320, 323
+	offsets: 144, 133, 631, 631
+fx/L2/lighting_14
+	bounds: 877, 6, 261, 326
+	offsets: 91, 52, 421, 407
+	rotate: 90
+fx/L2/lighting_15
+	bounds: 1523, 8, 259, 292
+	offsets: 92, 55, 421, 407
+	rotate: 90
+fx/L2/lighting_27
+	bounds: 1797, 1908, 136, 178
+	offsets: 135, 92, 421, 407
+	rotate: 90
+fx/L2/lighting_34
+	bounds: 1977, 1975, 69, 62
+	offsets: 180, 211, 421, 407
+	rotate: 90
+fx/L3/Lighting loop_12
+	bounds: 1797, 1636, 267, 244
+	offsets: 185, 205, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_13
+	bounds: 2, 2, 268, 234
+	offsets: 186, 206, 624, 603
+fx/L3/Lighting loop_27
+	bounds: 1797, 1070, 232, 295
+	offsets: 172, 177, 624, 603
+fx/L3/Lighting loop_28
+	bounds: 1205, 26, 241, 316
+	offsets: 163, 143, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_29
+	bounds: 272, 30, 206, 286
+	offsets: 202, 141, 624, 603
+	rotate: 90
+light_staff01
+	bounds: 1817, 13, 254, 223
+	offsets: 4, 16, 261, 255
+	rotate: 90
+membesar-mengecil dikit, wobble dikit2
+	bounds: 877, 269, 837, 799
+rotate
+	bounds: 2, 238, 867, 873
+	offsets: 25, 24, 928, 924
+	rotate: 90
+scale fx
+	bounds: 2, 1107, 914, 937
+thunder high
+	bounds: 918, 1070, 974, 877
+	offsets: 5, 8, 982, 887
+	rotate: 90
+
+Mega Bonus Character_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6162
+fx/Glow
+	bounds: 945, 603, 245, 245
+fx/L/Comp 1_2
+	bounds: 733, 371, 210, 222
+	offsets: 206, 191, 631, 631
+	rotate: 90
+fx/L/Comp 1_3
+	bounds: 877, 1092, 221, 238
+	offsets: 199, 183, 631, 631
+fx/L/Comp 1_6
+	bounds: 1322, 1729, 263, 282
+	offsets: 175, 158, 631, 631
+fx/L/Comp 1_7
+	bounds: 1346, 1426, 281, 301
+	offsets: 165, 145, 631, 631
+fx/L/Comp 1_8
+	bounds: 1626, 1105, 301, 319
+	offsets: 154, 132, 631, 631
+fx/L2/lighting_05
+	bounds: 1666, 776, 327, 325
+	offsets: 43, 30, 421, 407
+	rotate: 90
+fx/L2/lighting_06
+	bounds: 1666, 65, 336, 333
+	offsets: 38, 25, 421, 407
+	rotate: 90
+fx/L2/lighting_12
+	bounds: 1666, 403, 295, 371
+	offsets: 58, 8, 421, 407
+fx/L2/lighting_13
+	bounds: 1380, 638, 284, 327
+	offsets: 69, 52, 421, 407
+fx/L2/lighting_16
+	bounds: 1063, 1564, 238, 257
+	offsets: 113, 89, 421, 407
+	rotate: 90
+fx/L2/lighting_17
+	bounds: 872, 1332, 218, 224
+	offsets: 131, 99, 421, 407
+fx/L2/lighting_18
+	bounds: 510, 1124, 171, 190
+	offsets: 155, 134, 421, 407
+	rotate: 90
+fx/L2/lighting_19
+	bounds: 2, 539, 165, 183
+	offsets: 145, 141, 421, 407
+fx/L2/lighting_20
+	bounds: 2, 539, 165, 183
+	offsets: 145, 141, 421, 407
+fx/L2/lighting_21
+	bounds: 665, 1801, 207, 210
+	offsets: 120, 102, 421, 407
+fx/L2/lighting_22
+	bounds: 2, 1622, 82, 111
+	offsets: 118, 108, 421, 407
+fx/L2/lighting_23
+	bounds: 539, 362, 192, 195
+	offsets: 115, 100, 421, 407
+fx/L2/lighting_24
+	bounds: 539, 362, 192, 195
+	offsets: 115, 100, 421, 407
+fx/L2/lighting_25
+	bounds: 539, 559, 197, 189
+	offsets: 113, 101, 421, 407
+	rotate: 90
+fx/L2/lighting_26
+	bounds: 539, 157, 203, 190
+	offsets: 111, 100, 421, 407
+	rotate: 90
+fx/L2/lighting_28
+	bounds: 2, 926, 148, 195
+	offsets: 137, 96, 421, 407
+fx/L2/lighting_29
+	bounds: 2, 724, 147, 200
+	offsets: 135, 97, 421, 407
+fx/L2/lighting_30
+	bounds: 2, 1123, 132, 156
+	offsets: 142, 95, 421, 407
+fx/L2/lighting_31
+	bounds: 2, 1123, 132, 156
+	offsets: 142, 95, 421, 407
+fx/L2/lighting_32
+	bounds: 2, 1281, 124, 163
+	offsets: 154, 97, 421, 407
+fx/L2/lighting_33
+	bounds: 2, 1446, 112, 174
+	offsets: 170, 94, 421, 407
+fx/L2/lighting_35
+	bounds: 2, 1828, 93, 78
+	offsets: 162, 206, 421, 407
+	rotate: 90
+fx/L2/lighting_36
+	bounds: 2, 1923, 80, 88
+	offsets: 158, 200, 421, 407
+fx/L2/lighting_37
+	bounds: 2, 1735, 84, 91
+	offsets: 156, 198, 421, 407
+fx/L3/Lighting loop_05
+	bounds: 1629, 1670, 295, 341
+	offsets: 190, 134, 624, 603
+fx/L3/Lighting loop_06
+	bounds: 1629, 1670, 295, 341
+	offsets: 190, 134, 624, 603
+fx/L3/Lighting loop_07
+	bounds: 867, 1558, 241, 194
+	offsets: 181, 214, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_08
+	bounds: 917, 850, 240, 223
+	offsets: 178, 209, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_09
+	bounds: 1192, 371, 265, 249
+	offsets: 179, 206, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_10
+	bounds: 1100, 1308, 254, 244
+	offsets: 182, 205, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_11
+	bounds: 1100, 1308, 254, 244
+	offsets: 182, 205, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_14
+	bounds: 1135, 101, 268, 240
+	offsets: 163, 207, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_15
+	bounds: 1346, 1125, 278, 280
+	offsets: 162, 138, 624, 603
+fx/L3/Lighting loop_16
+	bounds: 1346, 1125, 278, 280
+	offsets: 162, 138, 624, 603
+fx/L3/Lighting loop_17
+	bounds: 1377, 65, 304, 287
+	offsets: 141, 137, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_18
+	bounds: 1142, 850, 273, 236
+	offsets: 142, 162, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_19
+	bounds: 919, 115, 254, 214
+	offsets: 147, 219, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_20
+	bounds: 689, 1552, 176, 247
+	offsets: 217, 199, 624, 603
+fx/L3/Lighting loop_21
+	bounds: 689, 1552, 176, 247
+	offsets: 217, 199, 624, 603
+fx/L3/Lighting loop_22
+	bounds: 702, 1020, 173, 261
+	offsets: 225, 192, 624, 603
+fx/L3/Lighting loop_23
+	bounds: 702, 1283, 168, 267
+	offsets: 233, 186, 624, 603
+fx/L3/Lighting loop_24
+	bounds: 708, 799, 207, 219
+	offsets: 196, 183, 624, 603
+fx/L3/Lighting loop_25
+	bounds: 874, 1804, 207, 276
+	offsets: 198, 179, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_26
+	bounds: 874, 1804, 207, 276
+	offsets: 198, 179, 624, 603
+	rotate: 90
+fx/L3/Lighting loop_30
+	bounds: 731, 116, 186, 244
+	offsets: 202, 143, 624, 603
+fx/L3/Lighting loop_31
+	bounds: 731, 116, 186, 244
+	offsets: 202, 143, 624, 603
+fx/L5/S2_0
+	bounds: 527, 758, 179, 179
+fx/L5/S2_1
+	bounds: 2, 360, 177, 177
+fx/L5/S2_10
+	bounds: 2, 181, 177, 177
+fx/L5/S2_11
+	bounds: 2, 2, 177, 177
+fx/L5/S2_12
+	bounds: 84, 1834, 177, 177
+fx/L5/S2_13
+	bounds: 88, 1655, 177, 177
+fx/L5/S2_14
+	bounds: 116, 1476, 177, 177
+fx/L5/S2_15
+	bounds: 128, 1297, 177, 177
+fx/L5/S2_16
+	bounds: 151, 747, 177, 177
+fx/L5/S2_17
+	bounds: 152, 1118, 177, 177
+fx/L5/S2_18
+	bounds: 152, 939, 177, 177
+fx/L5/S2_19
+	bounds: 169, 568, 177, 177
+fx/L5/S2_2
+	bounds: 181, 389, 177, 177
+fx/L5/S2_20
+	bounds: 181, 210, 177, 177
+fx/L5/S2_21
+	bounds: 181, 31, 177, 177
+fx/L5/S2_22
+	bounds: 267, 1834, 177, 177
+fx/L5/S2_23
+	bounds: 295, 1655, 177, 177
+fx/L5/S2_24
+	bounds: 307, 1476, 177, 177
+fx/L5/S2_25
+	bounds: 330, 760, 177, 177
+fx/L5/S2_26
+	bounds: 331, 1297, 177, 177
+fx/L5/S2_27
+	bounds: 331, 1118, 177, 177
+fx/L5/S2_28
+	bounds: 348, 581, 177, 177
+fx/L5/S2_29
+	bounds: 360, 402, 177, 177
+fx/L5/S2_3
+	bounds: 360, 223, 177, 177
+fx/L5/S2_4
+	bounds: 360, 44, 177, 177
+fx/L5/S2_5
+	bounds: 474, 1834, 177, 177
+fx/L5/S2_6
+	bounds: 486, 1655, 177, 177
+fx/L5/S2_7
+	bounds: 509, 939, 177, 177
+fx/L5/S2_8
+	bounds: 510, 1476, 177, 177
+fx/L5/S2_9
+	bounds: 510, 1297, 177, 177
+wt2
+	bounds: 730, 583, 214, 213
+	rotate: 90
+
+Mega Bonus Character_3.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6162
+fx/L/Comp 1_12
+	bounds: 1541, 1236, 376, 338
+	offsets: 112, 104, 631, 631
+	rotate: 90
+fx/L/Comp 1_13
+	bounds: 2, 168, 394, 351
+	offsets: 101, 94, 631, 631
+fx/L/Comp 1_14
+	bounds: 717, 323, 413, 335
+	offsets: 90, 112, 631, 631
+fx/L/Comp 1_15
+	bounds: 1132, 226, 432, 314
+	offsets: 78, 100, 631, 631
+	rotate: 90
+fx/L/Comp 1_16
+	bounds: 1448, 206, 452, 292
+	offsets: 66, 88, 631, 631
+	rotate: 90
+fx/L2/lighting_10
+	bounds: 1541, 1664, 337, 371
+	offsets: 39, 5, 421, 407
+fx/L2/lighting_11
+	bounds: 756, 14, 307, 369
+	offsets: 60, 9, 421, 407
+	rotate: 90
+fx/L3/Lighting loop_00
+	bounds: 1448, 865, 355, 369
+	offsets: 134, 111, 624, 603
+fx/L3/Lighting loop_01
+	bounds: 1448, 865, 355, 369
+	offsets: 134, 111, 624, 603
+fx/L3/Lighting loop_04
+	bounds: 398, 2, 320, 356
+	offsets: 147, 118, 624, 603
+	rotate: 90
+membesar-mengecil dikit, wobble dikit
+	bounds: 2, 1236, 837, 799
+rotate, wobble, fade
+	bounds: 2, 476, 855, 758
+	offsets: 0, 142, 855, 900
+scale fx-1
+	bounds: 841, 1236, 730, 698
+	offsets: 1, 0, 731, 698
+	rotate: 90
+scale fx-2
+	bounds: 858, 660, 588, 574
+
+Mega Bonus Character_4.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6162
+fx/L/Comp 1_10
+	bounds: 2, 357, 339, 338
+	offsets: 133, 123, 631, 631
+fx/L/Comp 1_11
+	bounds: 368, 2, 357, 350
+	offsets: 123, 114, 631, 631
+fx/L2/lighting_07
+	bounds: 690, 354, 341, 341
+	offsets: 36, 21, 421, 407
+fx/L2/lighting_08
+	bounds: 1033, 352, 343, 352
+	offsets: 35, 17, 421, 407
+	rotate: 90
+fx/L2/lighting_09
+	bounds: 2, 16, 339, 364
+	offsets: 38, 9, 421, 407
+	rotate: 90
+fx/L3/Lighting loop_02
+	bounds: 343, 359, 345, 336
+	offsets: 145, 115, 624, 603
+fx/L3/Lighting loop_03
+	bounds: 1387, 353, 342, 358
+	offsets: 145, 116, 624, 603
+	rotate: 90

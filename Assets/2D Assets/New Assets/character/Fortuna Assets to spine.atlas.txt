@@ -1,0 +1,154 @@
+Fortuna Assets to spine.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.5
+Hair
+	bounds: 1105, 882, 662, 389
+	rotate: 90
+Hair lose
+	bounds: 1423, 1274, 398, 409
+	offsets: 1, 0, 399, 409
+L Breast
+	bounds: 486, 152, 173, 171
+L Hand 1
+	bounds: 185, 5, 142, 153
+	offsets: 0, 10, 147, 163
+	rotate: 270
+L Hand 2
+	bounds: 1018, 1240, 157, 199
+	offsets: 24, 5, 181, 204
+	rotate: 270
+L Hand 3
+	bounds: 343, 553, 117, 266
+	rotate: 90
+L breast win
+	bounds: 152, 153, 182, 157
+L hand 1 lose
+	bounds: 952, 264, 201, 372
+	rotate: 90
+L hand 1 win
+	bounds: 1115, 1489, 194, 350
+	rotate: 90
+L hand 2 lose
+	bounds: 552, 65, 95, 185
+	rotate: 90
+L hand 2 win
+	bounds: 1230, 152, 245, 197
+	rotate: 180
+L leg
+	bounds: 2, 302, 211, 340
+	rotate: 270
+L side hair
+	bounds: 104, 42, 120, 266
+	offsets: 0, 4, 120, 290
+	rotate: 180
+R Breast
+	bounds: 343, 266, 180, 184
+R breast win
+	bounds: 1303, 276, 184, 176
+R hand 1
+	bounds: 975, 2, 155, 157
+	offsets: 0, 6, 159, 163
+	rotate: 90
+R hand 1 lose
+	bounds: 340, 3, 119, 109
+R hand 1 win
+	bounds: 794, 276, 226, 399
+	rotate: 90
+R hand 2
+	bounds: 1708, 107, 102, 267
+	offsets: 0, 6, 102, 273
+	rotate: 270
+R hand 2 lose
+	bounds: 1653, 193, 87, 277
+	rotate: 90
+R hand 2 win
+	bounds: 1716, 275, 266, 130
+	offsets: 0, 0, 266, 135
+R hand 3
+	bounds: 2, 1122, 158, 300
+R hand 3 lose
+	bounds: 297, 1582, 101, 313
+	rotate: 90
+R leg
+	bounds: 870, 458, 196, 366
+	rotate: 90
+R side hair
+	bounds: 1406, 25, 129, 253
+	rotate: 90
+Skirt lose
+	bounds: 116, 882, 911, 468
+Torso
+	bounds: 1425, 865, 381, 408
+crown
+	bounds: 868, 152, 203, 110
+	offsets: 1, 1, 205, 112
+crown lose
+	bounds: 661, 162, 205, 112
+crown win
+	bounds: 2, 100, 200, 94
+	offsets: 3, 0, 207, 96
+	rotate: 90
+face
+	bounds: 354, 672, 208, 286
+	offsets: 0, 1, 210, 287
+	rotate: 90
+face lose
+	bounds: 1136, 674, 206, 296
+	rotate: 90
+face win
+	bounds: 1722, 467, 187, 289
+	offsets: 4, 1, 195, 292
+face win-blink
+	bounds: 1238, 467, 187, 289
+	offsets: 4, 1, 195, 292
+	rotate: 90
+face-blink
+	bounds: 1434, 656, 207, 286
+	offsets: 0, 1, 209, 287
+	rotate: 90
+hair back
+	bounds: 520, 331, 223, 285
+	rotate: 90
+hair back lose
+	bounds: 630, 546, 264, 286
+	rotate: 270
+hair back win
+	bounds: 1503, 273, 231, 286
+hair front
+	bounds: 330, 114, 181, 118
+	rotate: 180
+hair front lose
+	bounds: 1220, 65, 185, 118
+	rotate: 180
+hair front win
+	bounds: 737, 46, 181, 114
+	rotate: 180
+hip
+	bounds: 2, 751, 360, 287
+left eye close
+	bounds: 2, 1553, 53, 36
+	offsets: 0, 0, 54, 36
+lower leg_L
+	bounds: 1746, 757, 192, 668
+	offsets: 12, 0, 204, 678
+lower leg_R
+	bounds: 2, 452, 301, 536
+	offsets: 8, 0, 309, 554
+	rotate: 90
+neck
+	bounds: 1477, 156, 116, 174
+	offsets: 1, 7, 125, 181
+	rotate: 90
+neck lose
+	bounds: 2, 444, 125, 181
+neck win
+	bounds: 1073, 145, 121, 181
+	offsets: 0, 0, 125, 181
+	rotate: 90
+skirt
+	bounds: 2, 1265, 1210, 418
+torso win
+	bounds: 782, 744, 328, 411
+	rotate: 270

@@ -1,0 +1,118 @@
+Flip.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+Coin_1
+	bounds: 2, 2, 107, 126
+	rotate: 90
+Coin_3
+	bounds: 2, 2, 107, 126
+	rotate: 90
+Coin_2
+	bounds: 1939, 25, 99, 121
+Coin_4
+	bounds: 1939, 25, 99, 121
+Coin_5
+	bounds: 1647, 23, 143, 163
+Coin_6
+	bounds: 1490, 36, 155, 151
+Light
+	bounds: 1340, 13, 127, 125
+	offsets: 1, 0, 131, 125
+Spike/Out_01
+	bounds: 339, 483, 132, 171
+	offsets: 45, 151, 306, 417
+	rotate: 90
+Spike/Out_02
+	bounds: 674, 41, 153, 202
+	offsets: 39, 133, 306, 417
+	rotate: 90
+Spike/Out_03
+	bounds: 255, 23, 174, 229
+	offsets: 33, 117, 306, 417
+	rotate: 90
+Spike/Out_04
+	bounds: 927, 27, 190, 255
+	offsets: 29, 101, 306, 417
+	rotate: 90
+Spike/Out_05
+	bounds: 1834, 148, 208, 278
+	offsets: 25, 87, 306, 417
+Spike/Out_06
+	bounds: 1189, 140, 224, 299
+	offsets: 21, 74, 306, 417
+	rotate: 90
+Spike/Out_07
+	bounds: 1513, 189, 238, 319
+	offsets: 18, 62, 306, 417
+	rotate: 90
+Spike/Out_08
+	bounds: 2, 365, 251, 335
+	offsets: 15, 52, 306, 417
+	rotate: 90
+Spike/Out_09
+	bounds: 1449, 674, 264, 351
+	offsets: 12, 42, 306, 417
+Spike/Out_10
+	bounds: 1173, 660, 274, 365
+	offsets: 10, 33, 306, 417
+Spike/Out_11
+	bounds: 887, 647, 284, 378
+	offsets: 8, 25, 306, 417
+Spike/Out_12
+	bounds: 592, 636, 293, 389
+	offsets: 6, 18, 306, 417
+Spike/Out_13
+	bounds: 2, 626, 299, 399
+	offsets: 5, 12, 306, 417
+Spike/Out_14
+	bounds: 303, 617, 287, 408
+	offsets: 4, 6, 306, 417
+Spike/Out_15
+	bounds: 1219, 366, 292, 292
+	offsets: 3, 124, 306, 417
+Spike/Out_16
+	bounds: 339, 199, 296, 280
+	offsets: 2, 123, 306, 417
+Spike/Out_17
+	bounds: 637, 196, 289, 283
+	offsets: 1, 122, 306, 417
+Spike/Out_18
+	bounds: 2, 622, 3, 2
+	offsets: 289, 311, 306, 417
+Spin_Ar1
+	bounds: 130, 24, 85, 113
+	offsets: 0, 1, 85, 115
+	rotate: 90
+Spin_Ar2
+	bounds: 512, 494, 65, 121
+	offsets: 5, 0, 85, 121
+Spin_Ar4
+	bounds: 255, 238, 65, 61
+Spin_Ar5
+	bounds: 255, 301, 66, 61
+Spin_Border
+	bounds: 1715, 428, 295, 304
+	rotate: 90
+Spin_Coin
+	bounds: 1185, 9, 153, 129
+	offsets: 0, 13, 153, 155
+Spin_Inside
+	bounds: 2, 111, 251, 251
+disabled button
+	bounds: 486, 14, 180, 186
+	offsets: 0, 4, 180, 190
+	rotate: 90
+glow1
+	bounds: 928, 219, 259, 260
+	offsets: 27, 25, 312, 312
+lightray2
+	bounds: 592, 481, 625, 153
+	offsets: 0, 28, 625, 209
+ring
+	bounds: 1715, 725, 300, 300
+	offsets: 6, 6, 312, 312
+star
+	bounds: 1792, 3, 145, 143
+	offsets: 9, 9, 163, 161

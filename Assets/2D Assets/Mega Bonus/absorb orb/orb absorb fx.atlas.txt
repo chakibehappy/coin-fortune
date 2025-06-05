@@ -1,0 +1,17 @@
+orb absorb fx.png
+	size: 512, 512
+	filter: Linear, Linear
+	pma: true
+	scale: 0.25773
+FX A
+	bounds: 287, 287, 184, 146
+	offsets: 1, 1, 186, 147
+	rotate: 90
+FX B
+	bounds: 181, 2, 160, 182
+	offsets: 3, 2, 165, 187
+FX C
+	bounds: 2, 186, 283, 285
+	offsets: 1, 0, 284, 287
+FX D
+	bounds: 2, 7, 177, 177

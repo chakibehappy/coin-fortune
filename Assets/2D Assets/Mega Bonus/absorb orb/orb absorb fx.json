@@ -1,0 +1,321 @@
+{
+"skeleton": {
+	"hash": "SBT99uKtn9E",
+	"spine": "4.1.24",
+	"x": -206.81,
+	"y": -197.51,
+	"width": 400.7,
+	"height": 401.4,
+	"images": "./images/",
+	"audio": "D:/data asus/Documents/ramdan/kantor/fortuna/animation/Fortuna Spine assets/orb absorb"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "all orbs fx", "parent": "root", "scaleX": 0.2577, "scaleY": 0.2577 },
+	{ "name": "FX A", "parent": "all orbs fx" },
+	{ "name": "FX B", "parent": "all orbs fx" },
+	{ "name": "FX C", "parent": "all orbs fx" },
+	{ "name": "FX D", "parent": "all orbs fx" },
+	{ "name": "FX C2", "parent": "all orbs fx", "rotation": -52.87 },
+	{ "name": "FX C3", "parent": "all orbs fx", "rotation": -34.89 },
+	{ "name": "FX C4", "parent": "all orbs fx", "rotation": -16.08 }
+],
+"slots": [
+	{ "name": "clipping screen", "bone": "root", "attachment": "clipping screen" },
+	{ "name": "FX D", "bone": "FX D", "attachment": "FX D" },
+	{ "name": "FX D2", "bone": "FX D", "attachment": "FX D", "blend": "additive" },
+	{ "name": "FX C", "bone": "FX C", "attachment": "FX C" },
+	{ "name": "FX C2", "bone": "FX C2", "attachment": "FX C" },
+	{ "name": "FX C3", "bone": "FX C3", "attachment": "FX C" },
+	{ "name": "FX C4", "bone": "FX C4", "attachment": "FX C" },
+	{ "name": "FX B", "bone": "FX B", "attachment": "FX B" },
+	{ "name": "FX A", "bone": "FX A", "attachment": "FX A" },
+	{ "name": "FX A2", "bone": "FX A", "attachment": "FX A" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"clipping screen": {
+				"clipping screen": {
+					"type": "clipping",
+					"end": "clipping screen",
+					"vertexCount": 4,
+					"vertices": [ -540, 960, 540, 960, 540, -960, -540, -960 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"FX A": {
+				"FX A": { "x": 23, "y": 3, "width": 721, "height": 571 }
+			},
+			"FX A2": {
+				"FX A": { "x": 23, "y": 3, "rotation": 33.53, "width": 721, "height": 571 }
+			},
+			"FX B": {
+				"FX B": { "x": 3.09, "y": 47.94, "width": 640, "height": 726 }
+			},
+			"FX C": {
+				"FX C": { "x": -27, "y": -11, "width": 1103, "height": 1115 }
+			},
+			"FX C2": {
+				"FX C": { "x": -27, "y": -11, "width": 1103, "height": 1115 }
+			},
+			"FX C3": {
+				"FX C": { "x": -27, "y": -11, "width": 1103, "height": 1115 }
+			},
+			"FX C4": {
+				"FX C": { "x": -27, "y": -11, "width": 1103, "height": 1115 }
+			},
+			"FX D": {
+				"FX D": { "color": "ffffff95", "width": 685, "height": 685 }
+			},
+			"FX D2": {
+				"FX D": { "color": "ffffff64", "width": 685, "height": 685 }
+			}
+		}
+	}
+],
+"animations": {
+	"orb absorb": {
+		"slots": {
+			"FX A": {
+				"rgba": [
+					{
+						"color": "ffffffff",
+						"curve": [ 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 0 ]
+					},
+					{
+						"time": 0.1667,
+						"color": "ffffff00",
+						"curve": [ 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 1, 0.222, 0, 0.278, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "ffffffff",
+						"curve": [ 0.389, 1, 0.444, 1, 0.389, 1, 0.444, 1, 0.389, 1, 0.444, 1, 0.389, 1, 0.444, 0 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffff00",
+						"curve": [ 0.556, 1, 0.611, 1, 0.556, 1, 0.611, 1, 0.556, 1, 0.611, 1, 0.556, 0, 0.611, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffffff",
+						"curve": [ 0.722, 1, 0.778, 1, 0.722, 1, 0.778, 1, 0.722, 1, 0.778, 1, 0.722, 1, 0.778, 0 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffffff00",
+						"curve": [ 0.889, 1, 0.944, 1, 0.889, 1, 0.944, 1, 0.889, 1, 0.944, 1, 0.889, 0, 0.944, 1 ]
+					},
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 1.056, 1, 1.111, 1, 1.056, 1, 1.111, 1, 1.056, 1, 1.111, 1, 1.056, 1, 1.111, 0 ]
+					},
+					{
+						"time": 1.1667,
+						"color": "ffffff00",
+						"curve": [ 1.222, 1, 1.278, 1, 1.222, 1, 1.278, 1, 1.222, 1, 1.278, 1, 1.222, 0, 1.278, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"color": "ffffffff",
+						"curve": [ 1.389, 1, 1.444, 1, 1.389, 1, 1.444, 1, 1.389, 1, 1.444, 1, 1.389, 1, 1.444, 0 ]
+					},
+					{
+						"time": 1.5,
+						"color": "ffffff00",
+						"curve": [ 1.556, 1, 1.611, 1, 1.556, 1, 1.611, 1, 1.556, 1, 1.611, 1, 1.556, 0, 1.611, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"color": "ffffffff",
+						"curve": [ 1.722, 1, 1.778, 1, 1.722, 1, 1.778, 1, 1.722, 1, 1.778, 1, 1.722, 1, 1.778, 0 ]
+					},
+					{
+						"time": 1.8333,
+						"color": "ffffff00",
+						"curve": [ 1.889, 1, 1.944, 1, 1.889, 1, 1.944, 1, 1.889, 1, 1.944, 1, 1.889, 0, 1.944, 1 ]
+					},
+					{ "time": 2, "color": "ffffffff" }
+				]
+			},
+			"FX A2": {
+				"rgba": [
+					{
+						"color": "ffffff00",
+						"curve": [ 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 1, 0.056, 1, 0.111, 1, 0.056, 0, 0.111, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"color": "ffffffff",
+						"curve": [ 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 0 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "ffffff00",
+						"curve": [ 0.389, 1, 0.444, 1, 0.389, 1, 0.444, 1, 0.389, 1, 0.444, 1, 0.389, 0, 0.444, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.556, 1, 0.611, 1, 0.556, 1, 0.611, 1, 0.556, 1, 0.611, 1, 0.556, 1, 0.611, 0 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffff00",
+						"curve": [ 0.722, 1, 0.778, 1, 0.722, 1, 0.778, 1, 0.722, 1, 0.778, 1, 0.722, 0, 0.778, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.889, 1, 0.944, 1, 0.889, 1, 0.944, 1, 0.889, 1, 0.944, 1, 0.889, 1, 0.944, 0 ]
+					},
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 1.056, 1, 1.111, 1, 1.056, 1, 1.111, 1, 1.056, 1, 1.111, 1, 1.056, 0, 1.111, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"color": "ffffffff",
+						"curve": [ 1.222, 1, 1.278, 1, 1.222, 1, 1.278, 1, 1.222, 1, 1.278, 1, 1.222, 1, 1.278, 0 ]
+					},
+					{
+						"time": 1.3333,
+						"color": "ffffff00",
+						"curve": [ 1.389, 1, 1.444, 1, 1.389, 1, 1.444, 1, 1.389, 1, 1.444, 1, 1.389, 0, 1.444, 1 ]
+					},
+					{
+						"time": 1.5,
+						"color": "ffffffff",
+						"curve": [ 1.556, 1, 1.611, 1, 1.556, 1, 1.611, 1, 1.556, 1, 1.611, 1, 1.556, 1, 1.611, 0 ]
+					},
+					{
+						"time": 1.6667,
+						"color": "ffffff00",
+						"curve": [ 1.722, 1, 1.778, 1, 1.722, 1, 1.778, 1, 1.722, 1, 1.778, 1, 1.722, 0, 1.778, 1 ]
+					},
+					{
+						"time": 1.8333,
+						"color": "ffffffff",
+						"curve": [ 1.889, 1, 1.944, 1, 1.889, 1, 1.944, 1, 1.889, 1, 1.944, 1, 1.889, 1, 1.944, 0 ]
+					},
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"FX C": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"FX C2": {
+				"rgba": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"FX C3": {
+				"rgba": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"FX C4": {
+				"rgba": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"FX D2": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"color": "ffffff00",
+						"curve": [ 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 1, 0.222, 1, 0.278, 1, 0.222, 0.31, 0.278, 0.94 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "ffffffef",
+						"curve": [ 0.556, 1, 0.778, 1, 0.556, 1, 0.778, 1, 0.556, 1, 0.778, 1, 0.556, 0.94, 0.778, 0 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"FX D": {
+				"scale": [
+					{ "x": 0.8, "y": 0.8 }
+				]
+			},
+			"FX A": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 180 },
+					{ "time": 2, "value": 360 }
+				],
+				"scale": [
+					{ "x": 1.753, "y": 1.753 },
+					{ "time": 2, "x": 0.335, "y": 0.335 }
+				]
+			},
+			"FX B": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "value": 180 },
+					{ "time": 1, "value": 360 },
+					{ "time": 1.5, "value": 540 },
+					{ "time": 2, "value": 720 }
+				]
+			},
+			"FX C": {
+				"rotate": [
+					{},
+					{ "time": 0.6667, "value": 180 },
+					{ "time": 2, "value": 360 }
+				],
+				"scale": [
+					{ "x": 1.282, "y": 1.282 },
+					{ "time": 2, "x": 0.524, "y": 0.524 }
+				]
+			},
+			"FX C2": {
+				"scale": [
+					{ "x": 1.282, "y": 1.282 }
+				]
+			},
+			"FX C3": {
+				"scale": [
+					{ "x": 1.282, "y": 1.282 }
+				]
+			},
+			"FX C4": {
+				"rotate": [
+					{ "value": 227.37 }
+				],
+				"scale": [
+					{ "x": 0.89, "y": 0.89 }
+				]
+			},
+			"all orbs fx": {
+				"scale": [
+					{
+						"curve": [ 0.278, 1, 0.556, 0.837, 0.278, 1, 0.556, 0.837 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 0.837,
+						"y": 0.837,
+						"curve": [ 1.222, 0.837, 1.611, 1, 1.222, 0.837, 1.611, 1 ]
+					},
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

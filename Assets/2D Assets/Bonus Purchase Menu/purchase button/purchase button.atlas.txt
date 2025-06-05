@@ -1,0 +1,22 @@
+purchase button.png
+	size: 2048, 256
+	filter: Linear, Linear
+	pma: true
+base purchase
+	bounds: 436, 109, 432, 105
+	offsets: 1, 1, 434, 107
+shine 1
+	bounds: 436, 2, 431, 105
+	offsets: 1, 1, 434, 107
+shine 2
+	bounds: 2, 2, 432, 105
+	offsets: 1, 1, 434, 107
+shine 3
+	bounds: 869, 2, 408, 105
+	offsets: 1, 1, 410, 107
+text
+	bounds: 870, 109, 291, 34
+	offsets: 1, 1, 293, 36
+top boder
+	bounds: 2, 109, 432, 105
+	offsets: 1, 1, 434, 107

@@ -1,0 +1,25 @@
+ticket transisi.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.59552
+PURCHASE text
+	bounds: 297, 210, 173, 20
+fog 1
+	bounds: 2, 691, 1594, 636
+	offsets: 0, 9, 1599, 651
+fog 2
+	bounds: 2, 297, 1421, 392
+	offsets: 1, 0, 1423, 392
+front fx 1
+	bounds: 1828, 263, 1064, 196
+	offsets: 0, 5, 1064, 201
+	rotate: 90
+front fx 2
+	bounds: 1597, 297, 1030, 229
+	rotate: 90
+ring
+	bounds: 2, 2, 293, 293
+	offsets: 6, 6, 305, 305
+ticket
+	bounds: 297, 232, 257, 63

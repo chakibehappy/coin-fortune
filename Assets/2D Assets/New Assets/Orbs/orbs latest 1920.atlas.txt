@@ -1,0 +1,272 @@
+orbs latest 1920.png
+size:4076,420
+filter:Linear,Linear
+pma:true
+scale:0.19899
+cover low 1
+bounds:361,7,104,95
+offsets:1,2,106,97
+cover low 2
+bounds:2263,4,159,136
+offsets:1,0,161,136
+cover low 3
+bounds:2424,6,147,139
+offsets:1,9,149,148
+cover low 4
+bounds:1325,2,117,136
+offsets:1,1,119,137
+rotate:90
+cover low 5
+bounds:696,7,122,107
+offsets:1,0,124,107
+cover low 6
+bounds:2357,147,271,220
+offsets:2,1,273,222
+rotate:90
+cover low 7
+bounds:2573,25,120,119
+offsets:2,1,124,121
+rotate:90
+cover mid 1
+bounds:3356,155,263,237
+rotate:90
+cover mid 2
+bounds:1542,25,54,94
+offsets:2,4,57,100
+cover mid 3
+bounds:2852,59,48,87
+offsets:3,0,52,87
+cover mid 4
+bounds:1837,10,264,126
+cover mid 5
+bounds:2870,19,81,38
+offsets:2,1,85,40
+cover no 1
+bounds:3099,149,255,269
+offsets:9,0,265,269
+cover no 2
+bounds:2,97,321,156
+offsets:0,2,322,159
+rotate:90
+cover no 3
+bounds:2103,10,126,158
+rotate:90
+fx/L3/Lighting loop_00
+bounds:959,2,115,119
+offsets:43,36,201,195
+rotate:90
+fx/L3/Lighting loop_01
+bounds:959,2,115,119
+offsets:43,36,201,195
+rotate:90
+fx/L3/Lighting loop_02
+bounds:467,3,111,109
+offsets:47,37,201,195
+rotate:90
+fx/L3/Lighting loop_03
+bounds:578,4,110,116
+offsets:47,37,201,195
+rotate:90
+fx/L3/Lighting loop_04
+bounds:1080,3,104,115
+offsets:47,38,201,195
+fx/L3/Lighting loop_05
+bounds:248,7,95,111
+offsets:61,43,201,195
+rotate:90
+fx/L3/Lighting loop_06
+bounds:248,7,95,111
+offsets:61,43,201,195
+rotate:90
+fx/L3/Lighting loop_07
+bounds:3264,4,78,63
+offsets:58,69,201,195
+fx/L3/Lighting loop_08
+bounds:3216,69,78,72
+offsets:57,68,201,195
+rotate:90
+fx/L3/Lighting loop_09
+bounds:2982,61,85,80
+offsets:58,67,201,195
+rotate:90
+fx/L3/Lighting loop_10
+bounds:3064,64,82,79
+offsets:59,66,201,195
+rotate:90
+fx/L3/Lighting loop_11
+bounds:3064,64,82,79
+offsets:59,66,201,195
+rotate:90
+fx/L3/Lighting loop_12
+bounds:2694,59,87,79
+offsets:59,66,201,195
+rotate:90
+fx/L3/Lighting loop_13
+bounds:2775,59,87,75
+offsets:60,67,201,195
+rotate:90
+fx/L3/Lighting loop_14
+bounds:2902,60,86,78
+offsets:53,67,201,195
+rotate:90
+fx/L3/Lighting loop_15
+bounds:1598,30,90,90
+offsets:52,45,201,195
+fx/L3/Lighting loop_16
+bounds:1598,30,90,90
+offsets:52,45,201,195
+fx/L3/Lighting loop_17
+bounds:2,2,98,93
+offsets:45,44,201,195
+fx/L3/Lighting loop_18
+bounds:1758,32,88,77
+offsets:46,52,201,195
+rotate:90
+fx/L3/Lighting loop_19
+bounds:3145,65,82,69
+offsets:47,71,201,195
+rotate:90
+fx/L3/Lighting loop_20
+bounds:2982,2,57,80
+offsets:70,64,201,195
+rotate:90
+fx/L3/Lighting loop_21
+bounds:2982,2,57,80
+offsets:70,64,201,195
+rotate:90
+fx/L3/Lighting loop_22
+bounds:2694,2,55,85
+offsets:73,62,201,195
+rotate:90
+fx/L3/Lighting loop_23
+bounds:2781,3,54,87
+offsets:75,60,201,195
+rotate:90
+fx/L3/Lighting loop_24
+bounds:3290,76,67,71
+offsets:63,59,201,195
+fx/L3/Lighting loop_25
+bounds:1690,31,66,89
+offsets:64,58,201,195
+fx/L3/Lighting loop_26
+bounds:1690,31,66,89
+offsets:64,58,201,195
+fx/L3/Lighting loop_27
+bounds:171,6,75,96
+offsets:55,57,201,195
+fx/L3/Lighting loop_28
+bounds:1463,17,77,102
+offsets:53,46,201,195
+fx/L3/Lighting loop_29
+bounds:102,2,67,93
+offsets:65,45,201,195
+fx/L3/Lighting loop_30
+bounds:3064,2,60,79
+offsets:65,46,201,195
+rotate:90
+fx/L3/Lighting loop_31
+bounds:3064,2,60,79
+offsets:65,46,201,195
+rotate:90
+fx/L5/S2_0
+bounds:3145,5,58,58
+fx/L5/S2_1
+bounds:3205,6,57,57
+fx/L5/S2_10
+bounds:3511,96,57,57
+fx/L5/S2_11
+bounds:3511,37,57,57
+fx/L5/S2_12
+bounds:3570,96,57,57
+fx/L5/S2_13
+bounds:3570,37,57,57
+fx/L5/S2_14
+bounds:4014,361,57,57
+fx/L5/S2_15
+bounds:4014,302,57,57
+fx/L5/S2_16
+bounds:4014,243,57,57
+fx/L5/S2_17
+bounds:4014,184,57,57
+fx/L5/S2_18
+bounds:3629,123,57,57
+fx/L5/S2_19
+bounds:3629,64,57,57
+fx/L5/S2_2
+bounds:3629,5,57,57
+fx/L5/S2_20
+bounds:3688,123,57,57
+fx/L5/S2_21
+bounds:3688,64,57,57
+fx/L5/S2_22
+bounds:3688,5,57,57
+fx/L5/S2_23
+bounds:3747,123,57,57
+fx/L5/S2_24
+bounds:3747,64,57,57
+fx/L5/S2_25
+bounds:3747,5,57,57
+fx/L5/S2_26
+bounds:3806,123,57,57
+fx/L5/S2_27
+bounds:3806,64,57,57
+fx/L5/S2_28
+bounds:3806,5,57,57
+fx/L5/S2_29
+bounds:3865,174,57,57
+fx/L5/S2_3
+bounds:3924,174,57,57
+fx/L5/S2_4
+bounds:3983,125,57,57
+fx/L5/S2_5
+bounds:3865,115,57,57
+fx/L5/S2_6
+bounds:3924,115,57,57
+fx/L5/S2_7
+bounds:3983,66,57,57
+fx/L5/S2_8
+bounds:3865,7,57,57
+fx/L5/S2_9
+bounds:3924,56,57,57
+glow
+bounds:3359,3,150,150
+membesar-mengecil dikit, wobble dikit
+bounds:2579,148,270,258
+rotate:90
+membesar-mengecil dikit, wobble dikit2
+bounds:2839,148,270,258
+rotate:90
+ring1
+bounds:741,119,299,272
+rotate:90
+ring1 top
+bounds:1186,4,137,114
+ring1 top base
+bounds:820,2,137,115
+ring1 upper
+bounds:1282,121,297,268
+rotate:90
+ring2
+bounds:1015,120,298,265
+rotate:90
+rotate
+bounds:1830,138,278,280
+offsets:9,9,300,298
+rotate, wobble, fade
+bounds:2110,142,276,245
+offsets:0,46,276,291
+rotate:90
+scale fx
+bounds:444,116,295,302
+scale fx-1
+bounds:3595,182,236,225
+rotate:90
+scale fx-2
+bounds:3822,233,190,185
+thunder high
+bounds:160,104,314,282
+offsets:2,3,317,286
+rotate:90
+top ring2
+bounds:1552,122,296,276
+rotate:90

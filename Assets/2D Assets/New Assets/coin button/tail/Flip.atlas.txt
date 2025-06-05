@@ -1,0 +1,44 @@
+Flip.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+Coin_1
+	bounds: 1126, 188, 107, 126
+Coin_3
+	bounds: 1126, 188, 107, 126
+Coin_2
+	bounds: 1126, 65, 99, 121
+Coin_4
+	bounds: 1126, 65, 99, 121
+Coin_5
+	bounds: 1126, 607, 143, 163
+Coin_6
+	bounds: 1126, 772, 155, 151
+Tail
+	bounds: 1126, 461, 144, 144
+Tail_BG
+	bounds: 1086, 1309, 235, 243
+Tail_Inside
+	bounds: 1086, 1106, 201, 201
+VFX1
+	bounds: 2, 2, 1122, 768
+	offsets: 2, 2, 1146, 772
+VFX3
+	bounds: 2, 772, 1082, 1082
+	offsets: 1, 2, 1084, 1085
+ring
+	bounds: 1086, 1554, 300, 300
+	offsets: 6, 6, 312, 312
+star
+	bounds: 1126, 316, 145, 143
+	offsets: 9, 9, 163, 161
+
+Flip_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+VFX2
+	bounds: 2, 2, 1082, 1081
+	offsets: 1, 1, 1084, 1083

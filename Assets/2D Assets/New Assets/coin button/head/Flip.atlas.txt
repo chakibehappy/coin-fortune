@@ -1,0 +1,32 @@
+Flip.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+Head
+	bounds: 1126, 772, 149, 171
+Head_BG
+	bounds: 1086, 1309, 235, 243
+Head_Inside
+	bounds: 1086, 1106, 201, 201
+Light
+	bounds: 1126, 645, 127, 125
+	offsets: 1, 0, 131, 125
+VFX1
+	bounds: 2, 2, 1122, 768
+	offsets: 2, 2, 1146, 772
+VFX3
+	bounds: 2, 772, 1082, 1082
+	offsets: 1, 2, 1084, 1085
+ring
+	bounds: 1086, 1554, 300, 300
+	offsets: 6, 6, 312, 312
+
+Flip_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+VFX2
+	bounds: 2, 2, 1082, 1081
+	offsets: 1, 1, 1084, 1083

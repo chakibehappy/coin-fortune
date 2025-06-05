@@ -1,0 +1,104 @@
+autoplay button.png
+	size: 1024, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6101
+Coin_1
+	bounds: 149, 19, 107, 126
+Coin_3
+	bounds: 149, 19, 107, 126
+Coin_2
+	bounds: 920, 608, 99, 121
+Coin_4
+	bounds: 920, 608, 99, 121
+Coin_5
+	bounds: 259, 19, 143, 163
+	rotate: 90
+Coin_6
+	bounds: 544, 85, 155, 151
+Light
+	bounds: 887, 1730, 127, 125
+	offsets: 1, 0, 131, 125
+Spike/Out_01
+	bounds: 887, 1857, 132, 171
+	offsets: 45, 151, 306, 417
+Spike/Out_02
+	bounds: 818, 105, 153, 202
+	offsets: 39, 133, 306, 417
+	rotate: 90
+Spike/Out_03
+	bounds: 818, 260, 174, 229
+	offsets: 33, 117, 306, 417
+Spike/Out_04
+	bounds: 2, 147, 190, 255
+	offsets: 29, 101, 306, 417
+	rotate: 90
+Spike/Out_05
+	bounds: 264, 164, 208, 278
+	offsets: 25, 87, 306, 417
+	rotate: 90
+Spike/Out_06
+	bounds: 264, 374, 224, 299
+	offsets: 21, 74, 306, 417
+	rotate: 90
+Spike/Out_07
+	bounds: 599, 491, 238, 319
+	offsets: 18, 62, 306, 417
+	rotate: 90
+Spike/Out_08
+	bounds: 602, 731, 251, 335
+	offsets: 15, 52, 306, 417
+	rotate: 90
+Spike/Out_09
+	bounds: 749, 1286, 264, 351
+	offsets: 12, 42, 306, 417
+Spike/Out_10
+	bounds: 382, 1344, 274, 365
+	offsets: 10, 33, 306, 417
+	rotate: 90
+Spike/Out_11
+	bounds: 2, 1335, 284, 378
+	offsets: 8, 25, 306, 417
+	rotate: 90
+Spike/Out_12
+	bounds: 592, 1639, 293, 389
+	offsets: 6, 18, 306, 417
+Spike/Out_13
+	bounds: 2, 1629, 299, 399
+	offsets: 5, 12, 306, 417
+Spike/Out_14
+	bounds: 303, 1620, 287, 408
+	offsets: 4, 6, 306, 417
+Spike/Out_15
+	bounds: 308, 885, 292, 292
+	offsets: 3, 124, 306, 417
+Spike/Out_16
+	bounds: 2, 600, 296, 280
+	offsets: 2, 123, 306, 417
+Spike/Out_17
+	bounds: 308, 600, 289, 283
+	offsets: 1, 122, 306, 417
+Spike/Out_18
+	bounds: 2, 1625, 3, 2
+	offsets: 289, 311, 306, 417
+Spin_Border
+	bounds: 2, 882, 295, 304
+	rotate: 90
+Spin_Inside
+	bounds: 565, 238, 251, 251
+arrow
+	bounds: 887, 1670, 63, 58
+	offsets: 2, 1, 67, 60
+glow1
+	bounds: 2, 339, 259, 260
+	offsets: 27, 25, 312, 312
+	rotate: 90
+lightray2
+	bounds: 2, 1179, 625, 153
+	offsets: 0, 28, 625, 209
+ring
+	bounds: 629, 984, 300, 300
+	offsets: 6, 6, 312, 312
+star
+	bounds: 2, 2, 145, 143
+	offsets: 9, 9, 163, 161

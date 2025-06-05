@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Mega Bonus Character_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: ffe847228872a8b4898e1e37731c15c0, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ac3c0415133c841449e87d0f3d561183, type: 2}
+  - {fileID: 2100000, guid: 7d3041cb362e199439956023078aae68, type: 2}
+  - {fileID: 2100000, guid: ab415569d636e7f4ba2450ed1f24c766, type: 2}
+  - {fileID: 2100000, guid: 86cfd301408f7544cab914da32665044, type: 2}

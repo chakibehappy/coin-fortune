@@ -1,0 +1,88 @@
+{
+  "en": {
+    "labels": {
+      "txt_start": "START",
+      "txt_how_to_play_title": "HOW TO PLAY",
+      "txt_how_to_play": "How to Play",
+      "txt_bet": "BET",
+      "txt_balance_with_colon": "Balance:",
+      "txt_auto_play": "Autoplay",
+      "txt_auto_play_confirm": "Confirm",
+	  "txt_close": "Close",
+      "txt_history_title": "History",
+      "txt_history_time": "Time",
+      "txt_history_bet": "Bet",
+      "txt_history_game": "Game",
+      "txt_history_payout": "Payout",
+      "txt_history_result": "Result",
+	  "txt_last_3_games": "Last 3 Games",
+	  "txt_combo": "COMBO",
+	  "txt_price":"Price :",
+	  "txt_purchase": "PURCHASE!",
+	  "txt_purchase_bonus_1": "Triple the Coin,\nTriple the Fun!",
+	  "txt_purchase_bonus_2": "Skip the 1 Coin game. Go to instantly to Bonus Mode with the price of <b>{0}x</b> of your bet",
+	  "txt_purchase_mega_bonus_1": "The Larger You Bet,\nThe Larger You Win!",
+      "txt_purchase_mega_bonus_2": "Hunt for 100x multiplier reward! Play Mega Bonus with price of <b>{0}x</b> of your bet",
+	  "txt_mega_bonus_try": "TRY",	  
+      "txt_sound_title": "Sound",
+      "txt_bgm": "BGM",
+      "txt_sfx": "SFX",
+      "txt_on": "On",
+      "txt_off": "Off",
+      "txt_sound_confirm": "Confirm",
+      "txt_no_connection": "Connection lost. Please check your internet connection"
+    },
+    "info_contents": {
+      "pages": [
+        { "content": "http://localhost/coin-fortune/Tutorial/en/page_1.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/en/page_2.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/en/page_3.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/en/page_4.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/en/page_5.html" },
+      ]
+    }
+  },
+  "id": {
+    "labels": {
+      "txt_start": "START",
+      "txt_how_to_play_title": "CARA MAIN",
+      "txt_how_to_play": "Cara Main",
+      "txt_bet": "BET",
+      "txt_balance_with_colon": "Saldo:",
+      "txt_auto_play": "Autoplay",
+      "txt_auto_play_confirm": "Konfirmasi",
+      "txt_close": "Tutup",
+      "txt_history_title": "Riwayat",
+      "txt_history_time": "Waktu",
+      "txt_history_bet": "Taruhan",
+      "txt_history_game": "Game",
+      "txt_history_payout": "Bayaran",
+      "txt_history_result": "Hasil",
+      "txt_last_3_games": "3 Game Terakhir",
+      "txt_combo": "KOMBO",
+      "txt_price": "Harga :",
+      "txt_purchase": "BELI!",
+      "txt_purchase_bonus_1": "Koin Tiga Kali,\nSeru Tiga Kali!",
+      "txt_purchase_bonus_2": "Lewati game 1 Koin. Langsung ke Bonus Mode dengan harga <b>{0}x</b> taruhanmu",
+      "txt_purchase_mega_bonus_1": "Taruhan Makin Besar,\nMenang Makin Besar!",
+      "txt_purchase_mega_bonus_2": "Kejar hadiah pengali 100x! Main Mega Bonus dengan harga <b>{0}x</b> taruhanmu",
+      "txt_mega_bonus_try": "COBA",
+      "txt_sound_title": "Suara",
+      "txt_bgm": "BGM",
+      "txt_sfx": "SFX",
+      "txt_on": "On",
+      "txt_off": "Off",
+      "txt_sound_confirm": "Konfirmasi",
+      "txt_no_connection": "Koneksi hilang. Cek koneksi internetmu"
+    },
+    "info_contents": {
+      "pages": [
+        { "content": "http://localhost/coin-fortune/Tutorial/id/page_1.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/id/page_2.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/id/page_3.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/id/page_4.html" },
+        { "content": "http://localhost/coin-fortune/Tutorial/id/page_5.html" }
+      ]
+    }
+  }
+}

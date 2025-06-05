@@ -1,0 +1,28 @@
+penanda bonus.png
+	size: 1024, 512
+	filter: Linear, Linear
+	pma: true
+	scale: 0.59552
+arrow
+	bounds: 866, 147, 91, 164
+b
+	bounds: 648, 116, 216, 195
+	offsets: 2, 2, 220, 199
+base text
+	bounds: 2, 191, 423, 120
+coin 1
+	bounds: 648, 2, 112, 115
+	offsets: 2, 2, 116, 119
+	rotate: 90
+coin 2
+	bounds: 866, 33, 112, 115
+	offsets: 2, 2, 116, 119
+	rotate: 90
+coin 3
+	bounds: 276, 74, 112, 115
+	offsets: 2, 2, 116, 119
+nu
+	bounds: 2, 70, 272, 119
+s
+	bounds: 427, 107, 219, 204
+	offsets: 2, 1, 223, 207

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: Mega Bonus Character_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 9d4e59b503335f54baad3210b2fd0c33, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: b79e62e755d198746be6af6c2b23db57, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 1
+    additiveMaterials:
+    - pageName: Mega Bonus Character_2.png
+      material: {fileID: 2100000, guid: 4ec1f69806771224f847c2119567a7ee, type: 2}
+    - pageName: Mega Bonus Character.png
+      material: {fileID: 2100000, guid: 539fe32f8d3554e40af94353f9a5fcf5, type: 2}
+    - pageName: Mega Bonus Character_3.png
+      material: {fileID: 2100000, guid: 10a47abc61345384599974720469ff02, type: 2}
+    - pageName: Mega Bonus Character_4.png
+      material: {fileID: 2100000, guid: 1d014954176f6be439abe6a5dfadc3cc, type: 2}
+    multiplyMaterials: []
+    screenMaterials: []
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}
