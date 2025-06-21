@@ -707,6 +707,8 @@ public class MainGame : MonoBehaviour
 
     void TooglePurchaseWindow()
     {
+        menuManager.ForceCloseSubMenu();
+
         if (isFlipping || isAutoPlay)
             return;
         StartCoroutine(BlinkSpineObjectIE(purchaseButtonSpine));
@@ -723,6 +725,8 @@ public class MainGame : MonoBehaviour
 
     void OnFlipCoinDown()
     {
+        menuManager.ForceCloseSubMenu();
+
         if (!isAutoPlay)
             FlipCoin();
     }
@@ -893,6 +897,8 @@ public class MainGame : MonoBehaviour
 
     void SelectRandomCoin()
     {
+        menuManager.ForceCloseSubMenu();
+
         bool coinIsHeads = UnityEngine.Random.value < 0.5f;
         string ranCoin = coinIsHeads ? "Head" : "Tail";
         selectedChoice = ranCoin;
@@ -903,6 +909,8 @@ public class MainGame : MonoBehaviour
 
     void SelectCoinSide(GameObject coinObj, string coinSide = "Head")
     {
+        menuManager.ForceCloseSubMenu();
+
         if (isAutoPlay || isFlipping)
             return;
         isRandomChoice = false;
@@ -937,6 +945,8 @@ public class MainGame : MonoBehaviour
 
     void ChangeBet(GameObject btnObj, bool isIncrease = true)
     {
+        menuManager.ForceCloseSubMenu();
+
         if (isFlipping || isAutoPlay || isMegaBonusRoundMode || megaBonusHint.activeInHierarchy)
             return;
 

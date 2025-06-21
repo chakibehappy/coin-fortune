@@ -43,6 +43,8 @@ public class MenuManager : MonoBehaviour
 
     [SerializeField] private TutorialDisplay tutorialDisplay;
 
+    [SerializeField] private GameObject mainMenuUI;
+
     void Start()
     {
         Audio = AudioManager.Instance;
@@ -122,6 +124,20 @@ public class MenuManager : MonoBehaviour
             OnSubMenuButtonClick(0); 
         });
         eventTriggerTutorial.triggers.Add(entryTutorial);
+
+        EventTrigger eventTriggerScreen = mainMenuUI.AddComponent<EventTrigger>();
+        EventTrigger.Entry entryScreen = new()
+        {
+            eventID = EventTriggerType.PointerClick
+        };
+        entryScreen.callback.AddListener((data) => { ForceCloseSubMenu(); });
+        eventTriggerScreen.triggers.Add(entryScreen);
+    }
+
+    public void ForceCloseSubMenu()
+    {
+        isSubMenuOpen = false;
+        ShowSubMenu(false);
     }
 
     void PunchScaleObject(GameObject imageObject)
